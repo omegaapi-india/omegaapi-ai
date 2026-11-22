@@ -3,6 +3,9 @@
 Install: [Open VSX](https://open-vsx.org/extension/OmegaAPI/omegaapi-ai) · Buy / renew: [omegaapi.in/product/omega-ai](https://omegaapi.in/product/omega-ai)
 
 
+### 1.1.1
+- Updated documentation: pricing, full command list, new settings and an accurate privacy section.
+
 ### 1.1.0
 - **Licensing moved to omegaapi.in.** Activation/verification now use `omegaapi.in/api/omegaai`; the old `ai1.omegaapi.com` PHP server was retired. Device-bound, server-is-source-of-truth. Renewals and revocations from the admin panel reach the extension automatically.
 - **New pricing:** single **Pro** plan — $251 one-time setup fee with 3 years of updates & new releases (replaces the old monthly/lifetime/enterprise tiers). Existing keys keep working.
